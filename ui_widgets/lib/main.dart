@@ -53,7 +53,7 @@ class MyScaffold extends StatelessWidget {
           ),
           Expanded(
             child: Center(
-              child: Text('Hello, world!'),
+              child: MyButton(),
             ),
           ),
         ],
